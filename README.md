@@ -1,7 +1,7 @@
 # Security addon - 7.0 BETA
 
 This app made for emergency case. It can delete/clear selected apps, delete files and folder and crypt files with AES-256 and your password. It can be launched from fake shortcut and sms! It has own powerful API wich anybody can use!
-> This version was special maded for Privacy Accelerator!
+> This version was special made for Privacy Accelerator!
 # Changelog
 - Anti-thieft fucntions
 - GPS command
